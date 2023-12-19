@@ -1,1 +1,5 @@
-### This is a simple jupyter notebook you can use on Google Colab or Kaggle for free
+### This is a simple jupyter notebook you can use on Google Colab or Kaggle to generate high quality pictures for free
+
+<a target="_blank" href="https://colab.research.google.com/github/yo-aiv1/txt2img_google_collab/blob/main/juggernautXL.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
