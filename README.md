@@ -8,9 +8,8 @@
 ## How to use it:
 * Click on the "Open In Colab" to open it in your google colab
 
-* Run the first cell.
+* Run the first cell, It'll take about 4 minutes to download and install.
 ![N|Solid](https://i.postimg.cc/15gBjkDc/chrome-OL3w-CGd-HNw.png)
-    It'll take about 4 minutes to download and install.
 
 * After sometime you will see the link (look at the picture below) to fooocus's UI that we will be using, open the link.
 ![N|Solid](https://i.postimg.cc/JhtjsJK3/chrome-L3-Ntfsdkih.png)
