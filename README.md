@@ -23,7 +23,7 @@
     * Aspect Ratio: the resolution of the picture.
     * Image Number: how many pictures you want to generate per prompt.
 
-* After you are done, you can close the cell we ran at first and run the cell below it to download all the pictures we generated and log.html which contain information like seeds, prompts...
+* After you are done, you can stop the cell we ran at first and run the cell below it to download all the pictures we generated and log.html which contain information like seeds, prompts...
 
 ## Additional information 
 
